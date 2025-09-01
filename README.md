@@ -2,7 +2,7 @@
 
 This project analyzes data science job salaries collected from **ai-jobs.net** spanning 2020 to 2022. It explores salary trends, distributions, and key insights to help job seekers and recruiters understand the market better. Additionally, a **Random Forest Regressor** model predicts salary based on job features, comparing actual vs predicted salaries.
 
-🔗 **Live App**: [https://data-sci-job-salary-insights.streamlit.app/](https://data-sci-job-salary-insights.streamlit.app/)
+🔗 **Live App**: [https://data-science-job-salaries-analysis-j932eykhcappyzuuy8fkgeg.streamlit.app//](https://data-science-job-salaries-analysis-j932eykhcappyzuuy8fkgeg.streamlit.app/)
 
 ---
 
@@ -23,3 +23,4 @@ This project analyzes data science job salaries collected from **ai-jobs.net** s
 - seaborn, matplotlib  
 - plotly  
 - scikit-learn (Random Forest Regressor)  
+
